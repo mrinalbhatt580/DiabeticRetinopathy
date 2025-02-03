@@ -1,3 +1,5 @@
+Mrinal Bhatt
+
 # DiabeticRetinopathy
 Automatic Detection of diabetic retinopathy using Deep Learning
 
